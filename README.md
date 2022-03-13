@@ -33,14 +33,15 @@ I have used here models both semi-supervised and unsupervised. In order to make 
 6. Reconstruction error check
 7. chosing Threshold based on F1 score
 8. Implementation of Unsupervised Algorithms
-  * Isolation Forest
-  * Local Outlier Factor
-  * One class SVM
-  * Minimum Covariance Determinant
+   * Isolation Forest
+   * Local Outlier Factor
+   * One class SVM
+   * Minimum Covariance Determinant
 
 ## How to Run
 ----------
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17Z6mLZKr12sZysTfQnWxqUMMTUBHKvvP?usp=sharing)
+
 load the dataset to the folder and provide the folder location to the variable data_dir and run all 
 
 ## Built With
