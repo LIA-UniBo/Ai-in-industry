@@ -1,4 +1,4 @@
-#  Anomaly detection for self-supervised learning
+#  Anomaly detection using self-supervised learning in HPC systems
 
 ## Dataset
 ------------------------------
@@ -11,23 +11,38 @@ However, in the data set the data are aggregated in 15-minutes intervals; in par
 
 ## Task
 -----------------------------------------
-Anomaly detection for self-supervised learning
+Anomaly detection using self-supervised learning
 
 
 ## Models
 -------------------------------------
-
-
+I have used here models both semi-supervised and unsupervised. In order to make the comparision between the types of the model.
+1. Autoencoders
+2. Isolation Forest
+3. Local Outlier Factor
+4. One class SVM
+5. Minimum Covariance Determinant
 
 ## Project WorkFlow
 --------------------------------------------
-
-
+1. Dataset Prepratation
+2. Data Analysis
+3. Split the data into training(Normal data)  and testing 
+4. MinMax Scaling
+5. Implementation Model - Autoencoder
+6. Reconstruction error check
+7. chosing Threshold based on F1 score
+8. Implementation of Unsupervised Algorithms
+   * Isolation Forest
+   * Local Outlier Factor
+   * One class SVM
+   * Minimum Covariance Determinant
 
 ## How to Run
 ----------
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mTTLCa9P6tnBS3sSfCX9ZnvZiN6VmA_x#scrollTo=31YdgY12i1fB)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17Z6mLZKr12sZysTfQnWxqUMMTUBHKvvP?usp=sharing)
 
+load the dataset only files containing (r20) to the folder and provide the folder location to the variable data_dir and run the notebook.
 
 ## Built With
 ---------------------------------
