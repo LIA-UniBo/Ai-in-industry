@@ -26,7 +26,7 @@ Anomaly detection for self-supervised learning
 
 ## How to Run
 ----------
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mTTLCa9P6tnBS3sSfCX9ZnvZiN6VmA_x#scrollTo=31YdgY12i1fB)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17Z6mLZKr12sZysTfQnWxqUMMTUBHKvvP?usp=sharing)
 
 
 ## Built With
