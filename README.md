@@ -1,4 +1,4 @@
-#  Anomaly detection for self-supervised learning
+#  Anomaly detection using self-supervised learning in HPC systems
 
 ## Dataset
 ------------------------------
@@ -42,7 +42,7 @@ I have used here models both semi-supervised and unsupervised. In order to make 
 ----------
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17Z6mLZKr12sZysTfQnWxqUMMTUBHKvvP?usp=sharing)
 
-load the dataset to the folder and provide the folder location to the variable data_dir and run all 
+load the dataset only files containing (r20) to the folder and provide the folder location to the variable data_dir and run the notebook.
 
 ## Built With
 ---------------------------------
