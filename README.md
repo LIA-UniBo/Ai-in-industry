@@ -16,12 +16,13 @@ Anomaly detection using self-supervised learning
 
 ## Models
 -------------------------------------
-I have used here models both semi-supervised and unsupervised. In order to make the comparision between the types of the model.
+I have used here models semi-supervised,unsupervised & self supervised algorithms. In order to make the comparision between the types of the model.
 1. Autoencoders
 2. Isolation Forest
 3. Local Outlier Factor
 4. One class SVM
 5. Minimum Covariance Determinant
+6. self supervised TABNET
 
 ## Project WorkFlow
 --------------------------------------------
@@ -37,6 +38,7 @@ I have used here models both semi-supervised and unsupervised. In order to make 
    * Local Outlier Factor
    * One class SVM
    * Minimum Covariance Determinant
+   * self supervised TABNET
 
 ## How to Run
 ----------
