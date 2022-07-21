@@ -11,7 +11,7 @@ However, in the data set the data are aggregated in 15-minutes intervals; in par
 
 ## Task
 -----------------------------------------
-Anomaly detection using self-supervised learning
+I performed an Anomaly detection using the three approaches semi supervised, unsupervised and self -supervised learning
 
 
 ## Models
