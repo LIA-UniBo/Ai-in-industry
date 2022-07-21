@@ -40,11 +40,9 @@ I have used here models semi-supervised,unsupervised & self supervised algorithm
    * Minimum Covariance Determinant
    * self supervised TABNET
 
-## How to Run
-----------
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17Z6mLZKr12sZysTfQnWxqUMMTUBHKvvP?usp=sharing)
+## Results
+![17](https://user-images.githubusercontent.com/72126242/180228565-41f7c7b8-f593-49d4-ad62-bae5c11cc62f.png)
 
-load the dataset only files containing (r20) to the folder and provide the folder location to the variable data_dir and run the notebook.
 
 ## Built With
 ---------------------------------
