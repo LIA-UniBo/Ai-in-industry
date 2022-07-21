@@ -30,7 +30,7 @@ I have used here models semi-supervised,unsupervised & self supervised algorithm
 2. Data Analysis
 3. Split the data into training(Normal data)  and testing 
 4. MinMax Scaling
-5. Implementation Model - Autoencoder
+5. Semi supervised Learning- Autoencoder
 6. Reconstruction error check
 7. chosing Threshold based on F1 score
 8. Implementation of Unsupervised Algorithms
@@ -38,7 +38,7 @@ I have used here models semi-supervised,unsupervised & self supervised algorithm
    * Local Outlier Factor
    * One class SVM
    * Minimum Covariance Determinant
-   * self supervised TABNET
+9. self supervised using TABNET
 
 ## Results
 ![17](https://user-images.githubusercontent.com/72126242/180228565-41f7c7b8-f593-49d4-ad62-bae5c11cc62f.png)
