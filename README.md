@@ -1,4 +1,4 @@
-#  Anomaly detection using self-supervised learning in HPC systems
+#  Anomaly detection in HPC systems
 
 ## Dataset
 ------------------------------
